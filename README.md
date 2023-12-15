@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yoongunwo
-- 👀 I’m interested in backend developer
-- 🌱 I’m currently learning spring
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 
 
 <!---
